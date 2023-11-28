@@ -3,7 +3,7 @@
 
 
 ## Overview
-This project is a simplified frontend clone of Airbnb, created using only HTML, CSS, and a bit of JavaScript. It aims to replicate the basic user interface of the Airbnb website, providing a clean and responsive design.
+This project is a simplified frontend clone of Airbnb, created using only HTML and CSS. It aims to replicate the basic user interface of the Airbnb website, providing a clean and responsive design.
 
 <br>
 
