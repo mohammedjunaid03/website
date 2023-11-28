@@ -23,7 +23,7 @@ This project is a simplified frontend clone of Airbnb, created using only HTML, 
 
 2. **Navigate to the Project Directory:**
    ```bash
-   cd airbnb-clone
+   cd website
 
 3. **Run Locally**
    ```bash
