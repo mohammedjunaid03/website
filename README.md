@@ -11,7 +11,7 @@ This project is a simplified frontend clone of Airbnb, created using only HTML, 
 
 - **HTML:** Markup language for structuring the webpage.
 - **CSS:** Stylesheet language for designing the look and feel.
-- **JavaScript:** Adds interactivity to the webpage.
+
 
 <br>
 
