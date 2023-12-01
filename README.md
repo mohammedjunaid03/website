@@ -30,7 +30,16 @@ This project is a simplified frontend clone of Airbnb, created using only HTML a
    Open the index.html file in your web browser.
 
   <br>
-   
+
+## Screen-shots🚀
+
+
+![Screenshot_20231201_100215](https://github.com/HISHAN03/Omegle/assets/108483712/4d57768f-b6c9-499a-bf77-efee73cb617a)
+
+<br>
+
+![Screenshot_20231201_100309](https://github.com/HISHAN03/Omegle/assets/108483712/4bfc37d7-2f7c-4084-91fc-8f4b6b1e2f33)
+
 ## Also deployed🚀
  this website using github page check the about section
 
